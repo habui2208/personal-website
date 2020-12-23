@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-Welcome to my personal website! My name is Dat Nguyen and I am currently a Master's student, studying Data Science at the University of Pennsylvania.
+My name is Dat Nguyen and I am currently a Master's student, studying Data Science at the University of Pennsylvania.
 
 Prior to joinning Penn, I worked at Deloitte Advisory as a business analytics senior consultant. I've spent the past 5 years working with data and perform strategic financial impact analyses to help clients in various industries improve their performances and drive revenues.
 
