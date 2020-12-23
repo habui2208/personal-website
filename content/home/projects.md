@@ -29,8 +29,12 @@ content:
       tag: "*"
     - name: Deep Learning
       tag: Deep Learning
+    - name: CV
+      tag: Computer Vision
+    - name: NLP
+      tag: NLP
     - name: Other
-      tag: Demo
+      tag: Web Development
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
