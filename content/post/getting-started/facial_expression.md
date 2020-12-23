@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Facial Expression Recognition with Deep Learning
+subtitle:
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Face detection and facial expression recognition have many potential benefits in healthcare, automotive, gaming, and many other industries. In this project, we implemented a face detection model using Detectron2 and several different machine learning algorithms such as k-nearest neighbors (”KNN”), multi-layer perceptron (”MLP”), and convolutional neural net (”CNN”) for the facial expression recognition. Our models are trained on two separate imagebased data sets. We were able to achieve a 70% AP50 with our face detection model and our best facial expression recognition model achieved an accuracy of 65%.
 
 # Link this post with a project
 projects: []
@@ -18,7 +18,7 @@ lastmod: "2020-12-13T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
