@@ -16,27 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 100%
+  - description:
     icon: python
     icon_pack: custom
     name: Python
-  - description: 90%
+  - description:
     icon: pytorch
     icon_pack: custom
     name: Deep Learning
-  - description: 100%
+  - description:
     icon: sklearn
     icon_pack: custom
     name: Machine Learning
-  - description: 90%
+  - description:
     icon: spark
     icon_pack: custom
     name: Big Data
-  - description: 80%
+  - description:
     icon: vuejs
     icon_pack: custom
     name: Frontend
-  - description: 90%
+  - description:
     icon: aws
     icon_pack: custom
     name: Cloud
