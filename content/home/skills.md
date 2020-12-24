@@ -40,6 +40,10 @@ feature:
     icon: aws
     icon_pack: custom
     name: Cloud
+  # - description:
+  #   icon: oraclesql
+  #   icon_pack: custom
+  #   name: Database
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

@@ -73,4 +73,4 @@ Prior to joinning Penn, I worked at Deloitte Advisory as a business analytics se
 
 As much as I am into data manipulating, it is the analysis of the data and how to uncover the relationships between numbers, translate the digits and spreadsheets into meaningful stories are what drive me forward. I take pride in my abilities to make data accessible and assist executives to make informed decisions that improve efficiency, risk management and profits.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "media/resume.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.
