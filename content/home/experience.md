@@ -40,7 +40,7 @@ experience:
     company_url: ""
     location: Remote
     date_start: "2021-01-11"
-    date_end: "2021-01-05"
+    date_end: "2021-05-01"
     # description: |2-
     #     Responsibilities include:
 
