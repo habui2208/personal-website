@@ -69,7 +69,7 @@ highlight_name: false
 
 My name is Dat Nguyen and I am currently a Master's student, studying Data Science at the University of Pennsylvania.
 
-Prior to joinning Penn, I worked at Deloitte Advisory as a business analytics senior consultant. I've spent the past 5 years working with data and perform strategic financial impact analyses to help clients in various industries improve their performances and drive revenues.
+Prior to joinning Penn, I worked at Deloitte Advisory as a business analytics (BI) senior consultant. I've spent the past 5 years working with data and perform strategic financial impact analyses to help clients in various industries improve their performances and drive revenues.
 
 I have recently completed two internships. In the winter of 2021, I interned at NBCUniversal as a data scientist, working on a graph-based recommender system. Recently, I finished my second internship with NVIDIA for their Geforce NOW - cloud gaming team.
 
