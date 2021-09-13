@@ -29,10 +29,10 @@ experience:
     date_start: "2021-05-17"
     date_end: "2021-09-10"
     # description: |2-
-    #     Responsibilities include:
+    # Responsibilities include:
 
-    #     * Analysing
-    #     * Modelling
+    # * Game lag analysis, building model to measure game lag
+    # * Modelling
     #     * Deploying
 
   - title: Data Science Intern
