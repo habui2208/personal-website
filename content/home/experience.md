@@ -23,11 +23,24 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data Science Intern
+    company: NVIDIA - GeForce NOW
+    company_url: ""
+    location: Santa Clara
+    date_start: "2021-05-17"
+    date_end: "2021-09-10"
+    # description: |2-
+    #     Responsibilities include:
+
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
+
+  - title: Data Science Intern
     company: NBCUniversal - Peacock Team
     company_url: ""
     location: Remote
     date_start: "2021-01-11"
-    date_end: ""
+    date_end: "2021-01-05"
     # description: |2-
     #     Responsibilities include:
 
