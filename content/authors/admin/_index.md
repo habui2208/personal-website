@@ -67,12 +67,12 @@ email: ""
 highlight_name: false
 ---
 
-My name is Dat Nguyen and I am currently a Master's student, studying Data Science at the University of Pennsylvania.
+My name is Dat Nguyen and I am currently a Senior Data Scientist at Socure, a pre-IPO fintech startup specializing in identity verification and fraud prevention using ML/AI.
 
-Prior to joinning Penn, I worked at Deloitte Advisory as a business analytics (BI) senior consultant. I've spent the past 5 years working with data and perform strategic financial impact analyses to help clients in various industries improve their performances and drive revenues.
+Prior to joining Socure, I worked at Deloitte Advisory as a BI senior consultant. I’ve spent the past 5 years working with data and performing strategic financial impact analyses to help clients in various industries improve their performances and drive revenues.
 
-I have recently completed two internships. In the winter of 2021, I interned at NBCUniversal as a data scientist, working on a graph-based recommender system. Recently, I finished my second internship with NVIDIA for their Geforce NOW - cloud gaming team.
+In the winter of 2021, I interned at NBCUniversal as a data scientist, working on a graph-based recommender system. I finished my second internship with NVIDIA for their Geforce NOW - cloud gaming team. After graduating with a Master in Data Science at the University of Pennsylvania, I accepted a full-time offer at Socure as a Senior Data Scientist.
 
-As much as I am into data manipulating, it is the analysis of the data and how to uncover the relationships between numbers, translate the digits and spreadsheets into meaningful stories are what drive me forward. I take pride in my abilities to make data accessible and assist executives to make informed decisions that improve efficiency, risk management and profits.
+As much as I am into data manipulating, it is the analysis of the data and how to uncover the relationships between numbers, translate the digits and spreadsheets into meaningful stories are that drive me forward. I take pride in my abilities to make data accessible and assist executives to make informed decisions that improve efficiency, risk management, and profits.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/resume.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.
