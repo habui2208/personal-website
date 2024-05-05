@@ -27,7 +27,7 @@ education:
   courses:
     - course: MS in Data Science
       institution: University of Pennsylvania | GPA 4.0
-      year: 2022
+      year: 2024
     - course: MS in Accounting
       institution: Brigham Young University (Provo) | GPA 3.6
       year: 2015
@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-My name is Dat Nguyen and I am data enthusiast.
+My name is Dat Nguyen and I am a data enthusiast.
 
 I worked at Deloitte Advisory as a BI senior consultant/data analyst. I’ve spent the past 5 years working with data and performing strategic financial impact analyses to help clients in various industries improve their performances and drive revenues.
 
