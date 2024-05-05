@@ -51,7 +51,7 @@ social:
     link: https://github.com/dattnguyen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/datnguyen243/
+    link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -67,9 +67,9 @@ email: ""
 highlight_name: false
 ---
 
-My name is Dat Nguyen and I am currently a Senior Data Scientist at Socure, a startup specializing in identity verification and fraud prevention using ML/AI.
+My name is Dat Nguyen and I am data enthusiast.
 
-Prior to joining Socure, I worked at Deloitte Advisory as a BI senior consultant. I’ve spent the past 5 years working with data and performing strategic financial impact analyses to help clients in various industries improve their performances and drive revenues.
+I worked at Deloitte Advisory as a BI senior consultant/data analyst. I’ve spent the past 5 years working with data and performing strategic financial impact analyses to help clients in various industries improve their performances and drive revenues.
 
 In the winter of 2021, I interned at NBCUniversal as a data scientist, working on a graph-based recommender system. I finished my second internship with NVIDIA for their Geforce NOW - cloud gaming team.
 
