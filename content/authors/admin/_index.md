@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-My name is Dat Nguyen and I am currently a Senior Data Scientist at Socure, a pre-IPO fintech startup specializing in identity verification and fraud prevention using ML/AI.
+My name is Dat Nguyen and I am currently a Senior Data Scientist at Socure, a startup specializing in identity verification and fraud prevention using ML/AI.
 
 Prior to joining Socure, I worked at Deloitte Advisory as a BI senior consultant. I’ve spent the past 5 years working with data and performing strategic financial impact analyses to help clients in various industries improve their performances and drive revenues.
 
