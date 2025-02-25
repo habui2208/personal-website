@@ -107,7 +107,8 @@ phone = "512-599-2741"
 office_hours = ["Friday 10:00 to 13:00 ET", "Saturday 13:00 to 15:00 ET"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/datnguyen_upenn"
+# appointment_url = "https://calendly.com/datnguyen_upenn"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
