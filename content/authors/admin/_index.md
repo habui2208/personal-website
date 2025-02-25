@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Dat Nguyen
+title: Ha Bui
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: MS in Data Science
+role: MBA Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Pennsylvania
-    url: https://www.upenn.edu/
+  - name: Concordia University Texas
+    url: https://www.concordia.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning, natural language processing, and recommender system.
