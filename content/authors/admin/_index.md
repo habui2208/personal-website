@@ -11,7 +11,7 @@ role: MBA Candidate | Education Specialist
 # Organizations/Affiliations
 organizations:
 - name: Concordia University Texas
-  url: ""
+  url: "https://www.concordia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: MBA candidate with expertise in education seeking opportunities in consulting, audit, data analytics, and product management.
@@ -30,7 +30,7 @@ education:
     year: 2025 (Expected)
   - course: Master of Art in Education
     institution: University of Huddersfield
-    year: 
+    year: 2023
   # Add Bachelor's degree information if available
 
 # Social/Academic Networking
