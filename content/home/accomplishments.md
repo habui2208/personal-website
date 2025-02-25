@@ -25,34 +25,18 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ""
-    date_start: "2020-09-01"
-    description: "Awarded for top 15%"
-    organization: University of Pennsylvania
+    date_start: "2023-01-25"
+    description: "Professional certification in business analytics"
+    organization: Sample Organization
     organization_url:
-    title: Dean's Master's Scholar
+    title: Business Analytics Certification
     url: ""
-  - certificate_url: https://www.coursera.org/account/accomplishments/verify/3YTY2SBX38F3
+  - certificate_url:
     date_end: ""
-    date_start: "2019-02-19"
-    description:
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Databases and SQL for Data Science
-    url: https://www.coursera.org/learn/sql-data-science
-  - certificate_url: https://www.coursera.org/account/accomplishments/verify/P2NGCDWQHDNL
-    date_end: ""
-    date_start: "2019-04-29"
-    description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: "Applied Data Science with Python Specialization - Part 1"
-    url: "https://www.coursera.org/learn/python-data-analysis"
-  - certificate_url: https://www.coursera.org/account/accomplishments/verify/2RMY364N5UE6
-    date_end: ""
-    date_start: "2019-04-29"
-    description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: "Applied Data Science with Python Specialization - Part 2"
-    url: "https://www.coursera.org/learn/python-data"
+    date_start: "2022-01-01"
+    description: "Advanced proficiency in financial modeling and analysis"
+    organization: Sample Institution
+    organization_url:
+    title: Financial Modeling Certificate
+    url: ""
 ---
