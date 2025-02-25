@@ -16,39 +16,39 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description:
-    icon: python
-    icon_pack: custom
-    name: Python
-  - description:
-    icon: pytorch
-    icon_pack: custom
-    name: Deep Learning
-  - description:
-    icon: sklearn
-    icon_pack: custom
-    name: Machine Learning
-  - description:
-    icon: spark
-    icon_pack: custom
-    name: Big Data
-  - description:
-    icon: vuejs
-    icon_pack: custom
-    name: Frontend
-  - description:
-    icon: aws
-    icon_pack: custom
-    name: Cloud
-  # - description:
-  #   icon: oraclesql
-  #   icon_pack: custom
-  #   name: Database
+- icon: file-excel
+  icon_pack: fas
+  name: Excel
+  
+- icon: chart-line
+  icon_pack: fas
+  name: Tableau
+  
+- icon: database
+  icon_pack: fas
+  name: SQL
+
+- icon: calculator
+  icon_pack: fas
+  name: QuickBooks
+
+- icon: cogs
+  icon_pack: fas
+  name: SAP
+
+- icon: file-powerpoint
+  icon_pack: fas
+  name: PowerPoint
+
+- icon: file-word
+  icon_pack: fas
+  name: Word
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"
+#  description: "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
