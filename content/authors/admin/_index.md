@@ -1,78 +1,65 @@
 ---
 # Display name
-title: Dat Nguyen
+title: Ha Bui
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: MS in Data Science
+# Role/position
+role: MBA Candidate | Education Specialist
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-  - name: University of Pennsylvania
-    url: https://www.upenn.edu/
+- name: Concordia University Texas
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, natural language processing, and recommender system.
+bio: MBA candidate with expertise in education seeking opportunities in consulting, audit, data analytics, and product management.
 
-# Interests to show in About widget
 interests:
-  - Deep Learning
-  - Computational Linguistics
-  - Recommender System
+- Consulting
+- Data Analytics
+- Education Management
+- Product Management
+- Business Strategy
 
-# Education to show in About widget
 education:
   courses:
-    - course: MS in Data Science
-      institution: University of Pennsylvania | GPA 4.0
-      year: 2024
-    - course: MS in Accounting
-      institution: Brigham Young University (Provo) | GPA 3.6
-      year: 2015
+  - course: MBA
+    institution: Concordia University Texas
+    year: 2025 (Expected)
+  - course: Master of Art in Education
+    institution: University of Huddersfield
+    year: 
+  # Add Bachelor's degree information if available
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "/#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/DatNguyen243
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/dattnguyen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:email@example.com".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ha-bui-52a3311a7/
+# Add other links as needed
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+- Visitors
 ---
 
-My name is Dat Nguyen and I am a data enthusiast.
+I am an education professional transitioning into the business sector, currently seeking opportunities in consulting, audit, data analytics, and product management.
 
-I worked at Deloitte Advisory as a BI senior consultant/data analyst. I’ve spent the past 5 years working with data and performing strategic financial impact analyses to help clients in various industries improve their performances and drive revenues.
+Holding a Master of Art degree in Education from the University of Huddersfield, I am currently broadening my expertise through an MBA at Concordia University Texas, set to complete in May 2025. This program is enhancing my analytical capabilities, particularly in Microsoft Excel, PowerPoint, and SQL while deepening my understanding of business strategies and operations.
 
-In the winter of 2021, I interned at NBCUniversal as a data scientist, working on a graph-based recommender system. I finished my second internship with NVIDIA for their Geforce NOW - cloud gaming team.
-
-As much as I am into data manipulating, it is the analysis of the data and how to uncover the relationships between numbers, translate the digits and spreadsheets into meaningful stories are that drive me forward. I take pride in my abilities to make data accessible and assist executives to make informed decisions that improve efficiency, risk management, and profits.
+With an ambition to transition into consulting or analysis roles, I am keen to apply my evolving business acumen and robust educational background to solving complex challenges within educational institutions or business entities. My goal is to leverage my unique blend of skills to deliver insightful analysis, strategic advice, and practical solutions that drive organizational success and educational excellence. I am passionate about continuous learning, fostering teamwork, and making impactful contributions to my working environment.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/resume.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.
