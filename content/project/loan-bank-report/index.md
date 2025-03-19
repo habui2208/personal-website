@@ -30,4 +30,6 @@ url_video: ""
 slides: ""
 ---
 
-[Project details to be added] 
+[Project details to be added]
+
+<iframe src="https://public.tableau.com/app/profile/ha.bui4357/viz/Book1_17422518629290/DETAILS?publish=yes" width="100%" height="600px"></iframe>
