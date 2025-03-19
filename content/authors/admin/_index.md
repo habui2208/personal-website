@@ -62,4 +62,6 @@ Holding a Master of Art degree in Education from the University of Huddersfield,
 
 With an ambition to transition into consulting or analysis roles, I am keen to apply my evolving business acumen and robust educational background to solving complex challenges within educational institutions or business entities. My goal is to leverage my unique blend of skills to deliver insightful analysis, strategic advice, and practical solutions that drive organizational success and educational excellence. I am passionate about continuous learning, fostering teamwork, and making impactful contributions to my working environment.
 
+Em yeu chong em!!
+
 {{< icon name="download" pack="fas" >}} {{< staticref "media/resume.pdf" "newtab" >}}Download my resumé{{< /staticref >}}.
