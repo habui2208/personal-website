@@ -32,4 +32,16 @@ slides: ""
 
 [Project details to be added]
 
-<iframe src="https://public.tableau.com/app/profile/ha.bui4357/viz/Book1_17422518629290/DETAILS?publish=yes" width="100%" height="600px"></iframe>
+<div id="tableauViz" style="width: 100%; height: 600px;"></div>
+
+<script type="text/javascript">
+  var divElement = document.getElementById('tableauViz');
+  var vizURL = "https://public.tableau.com/views/Book1_17422518629290/DETAILS?:showVizHome=no&:embed=true";
+  var options = {
+    width: divElement.offsetWidth,
+    height: divElement.offsetHeight,
+    hideTabs: true,
+    hideToolbar: true
+  };
+  var viz = new tableau.Viz(divElement, vizURL, options);
+</script>
